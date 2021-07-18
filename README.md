@@ -1,6 +1,6 @@
 # backstage-with-vue-and-typescript
 A little backstage template with vue.js and typescript.
-This is learned from [vuecli3+typescript实战教程-后台管理系统]('https://www.udemy.com/course/draft/2479724/')
+This is learned from [vuecli3+typescript实战教程-后台管理系统](https://www.udemy.com/course/draft/2479724/)
 
 ## admin to login
 admin/123456
